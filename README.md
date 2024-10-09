@@ -33,3 +33,19 @@
 </div>
 
 ###
+
+<h2 align="left">My Certifications</h2>
+
+###
+
+<img align="left" height="150" src="https://ucarecdn.com/10efcaf9-9d79-4ed9-b3ec-a110ee669780/-/format/auto/-/preview/750x750/-/quality/lighter/Scrum-Foundation-Professional-Certificate-SFPC%E2%84%A2-2021.png"  />
+
+###
+
+<img align="left" height="150" src="https://images.credly.com/images/de390c50-bad2-4275-aafc-fe31de9e7f7b/image.png"  />
+
+###
+
+<img align="left" height="150" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"  />
+
+###
